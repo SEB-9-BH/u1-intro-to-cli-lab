@@ -229,3 +229,15 @@
   377  code .
   378  touch solution.txt
   379  ls
+    380  history
+  381  git add -A
+  382  git commit -m 'solution text updated'
+  383  git push origin main
+  384  cd
+  385  cd ga
+  386  cd code
+  387  cd ga
+  388  cd labs
+  389  ls
+  390  rm -r star-wars
+  391  ls
