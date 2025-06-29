@@ -1,0 +1,150 @@
+    1* 
+    2  cd ..
+    3  cd labs
+    4  mkdir labs
+    5  cd labs
+    6  mkdir star-wars
+    7  cd star-wars
+    8  mkdir darth-vader.txt
+    9  mkdir princess-leia.txt
+   10  mkdir storm-trooper.txt
+   11  mk darth-vader.txt
+   12  touch darth-vader.txt
+   13  touch storm-trooper.txt
+   14  touch princess-leia.txt
+   15  mkdir galaxy-far-far-away
+   16  cd galaxy-far-far-away
+   17  mkdir tatooine
+   18  cd tatooine
+   19  touch luke.txt
+   20  touch ben-kenobi.txt
+   21  mkdir millenium-falcon
+   22  cd  millenium-falcon
+   23  touch han-solo.txt
+   24  touch hewbacca.txt
+   25  rm hewbacca.txt
+   26  touch chewbacca.txt
+   27  man cp
+   28  q
+   29  Q
+   30  cd death-star
+   31  cd ..
+   32  cd ..
+   33  cd ..
+   34  cd death-star
+   35  cd death-star
+   36  cp storm-trooper.txt tatooine
+   37* cp
+   38  cp storm-trooper.txt death-star.dir tatoonie.dir
+   39  cp storm-trooper.txt death-star.dir tatoonie
+   40* cp storm-trooper.txt death-s
+   41  cp storm-trooper.txt death-star.dir \star-wars\galaxy-far-far-away\tatoonie  
+   42  cp storm-trooper.txt galaxy-far-far-away\tatoonie\
+   43  cp storm-trooper.txt \galaxy-far-far-away\tatoonie\
+   44  cp storm-trooper.txt ..galaxy-far-far-away\tatoonie\
+   45  cp storm-trooper.txt ../galaxy-far-far-away/tatoonie/
+   46  cp storm-trooper.txt ../galaxy-far-far-away/tatoonie/
+   47  cp storm-trooper.txt ../star-wars/galaxy-far-far-away/tatoonie/
+   48  cp storm-trooper.txt ../galaxy-far-far-away/tatooine/
+   49  cd galaxy-far-far-away
+   50  cd..
+   51  cd ..
+   52  cd galaxy-far-far-away
+   53  cd tatooine
+   54  mv luke.txt ben-kenobi.txt ../millenium-falcon/
+   55  mv luke.txt ben-kenobi.txt ../tatoonie/millenium-falcon/
+   56  mv luke.txt ../tatoonie/millenium-falcon/
+   57  mv luke.txt ../millenium-falcon/
+   58  mv luke.txt ben-kenobi.txt /millenium-falcon/
+   59  mv luke.txt /millenium-falcon/
+   60  mv luke.txt ../millenium-falcon/
+   61  mv luke.txt /millenium-falcon
+   62  mv luke.txt ../millenium-falcon
+   63  touch luke.txt
+   64  mv luke.txt ../millenium-falcon/
+   65  mv luke.txt /millenium-falcon/
+   66  mv luke.txt /tatoonie/millenium-falcon/
+   67  mv luke.txt ../tatoonie/millenium-falcon/
+   68  mv luke.txt millenium-falcon/
+   69  mv millenium-falcon/ /galaxy-far-far-away/
+   70  mv ben-kenobi.txt millenium-falcon/
+   71  mv millenium-falcon ..
+   72  mv millenium-falcon ../death-star/
+   73  mv millenium-falcon /death-star/
+   74  mv millenium-falcon ../death-star
+   75  mv millenium-falcon ..death-star/
+   76  cd ..
+   77  mv millenium-falcon ../death-star/
+   78  cd ..
+   79  cd death-star
+   80  mv princess-leia.txt /millenium-falcon/
+   81  mv princess-leia.txt /millenium-falcon
+   82  mv princess-leia.txt millenium-falcon/
+   83  cd millenium-falcon
+   84  mv ben-kenobi.txt obi-wan.txt
+   85  rm obi-wan.txt
+   86  cd ..
+   87  cd ..
+   88  cd galaxy-far-far-away
+   89  cd
+   90  cd /Desktop/code/labs/star-wars/galaxy-far-far-away
+   91  cd Desktop/code/labs/star-wars/galaxy-far-far-away
+   92  mkdir yavin-4
+   93  cd ..
+   94  cd death-star
+   95  mv millenium-falcon ../star-wars/galaxy-far-far-away/yavin-4/
+   96  mv millenium-falcon ../galaxy-far-far-away/yavin-4/
+   97  cd ..
+   98  cd Desktop/code/labs/star-wars/galaxy-far-far-away
+   99  cd Desktop/code/labs/star-wars/galaxy-far-far-away/
+  100  cd galaxy-far-far-away
+  101  cd yavin-4
+  102  mkdir x-wing
+  103  cd millenium-falcon
+  104  mv princess-leia.txt ..
+  105  luke.txt /x-wing/
+  106  luke.txt x-wing/
+  107*
+  108  mv luke.txt /x-wing
+  109  mv luke.txt x-wing/
+  110  mv luke.txt /yavin/x-wing/
+  111  mv luke.txt /yavin/x-wing
+  112  mv luke.txt /yavin-4/x-wing/
+  113  mv luke.txt /yavin-4/x-wing
+  114  mv luke.txt ../yavin-4/x-wing
+  115  mv luke.txt ../yavin-4/x-wing/
+  116*
+  117  mv luke.txt ../x-wing/
+  118  cd ..
+  119  mv millenium-falcon x-wing ..
+  120  cd ..
+  121  cd ..
+  122  cd death-star
+  123  mkdir tie-fighter-1 tie-fighter-2 tie-fighter-3
+  124  mv darth-vader.txt /tie-fighter-1
+  125  mv darth-vader.txt tie-fighter-1/
+  126  cp storm-trooper.txt tie-fighter-2/ tie-fighter-3/
+  127  cp storm-trooper.txt tie-fighter-2/
+  128  cp storm-trooper.txt tie-fighter-3/
+  129  mv tie-fighter-1 tie-fighter-2 tie-fighter-3 /galaxy-far-far-away/
+  130  mv tie-fighter-1 tie-fighter-2 tie-fighter-3 ../galaxy-far-far-away/
+  131  cd ..
+  132  cd galaxy-far-far-away
+  133  rm tie-fighter-2 tie-fighter-3
+  134  rm -r tie-fighter-2 tie-fighter-3
+  135  cd x-wing
+  136  touch the-force.txt
+  137  cd ..
+  138  cd ..
+  139  rm -r death-star
+  140  cd galaxy-far-far-away
+  141  mv x-wing millenium-falcon yavin-4/
+  142  cd labs
+  143  cd ..
+  144  cd ..
+  145  cd ~/code/ga/labs
+  146  ls
+  147  git clone https://github.com/mohdaaj/u1-intro-to-cli-lab.git
+  148  cd u1-intro-to-cli-lab
+  149  code .
+  150  history
