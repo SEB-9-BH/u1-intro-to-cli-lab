@@ -1,0 +1,176 @@
+232  mkdir star-wars
+  233  cd star-wars
+  234  mkdir death-star
+  235  touch darth-vader.txt
+  236  touch princess-leia.txt
+  237  touch storm-trooper.txt
+  238  ls
+  239  rm darth-vader.txt
+  240  ls
+  241  rm princess-leia.txt
+  242  rm storm-trooper.txt
+  243  ls
+  244  cd death-star
+  245  ls
+  246  touch darth-vader.txt
+  247  touch princess-leia.txt
+  248  touch storm-trooper.txt
+  249  ls
+  250  cd ..
+  251  ls
+  252  mkdir galaxy-far-far-away
+  253  cd galaxy-far-far-away
+  254  ls
+  255  mkdir tatooine
+  256  cd tatooine
+  257  ls
+  258  touch luke.txt
+  259  touch ben-kenobi.txt
+  260  ls
+  261  mkdir millenium-falcon
+  262  c
+  263  cd millienium-falcon
+  264  cd millennium-falcon
+  265  cd millenium-falcon
+  266  touch han-solo.txt
+  267  touch chewbacca.txt
+  268  ls
+  269  man cp
+  270  cp storm-trooper.txt ../tatooine
+  271  ls
+  272  cd ..
+  273  ls
+  274  cd ..
+  275  ls
+  276  cd ..
+  277  ls
+  278  cd death-star
+  279  ls
+  280  cp storm-trooper.txt ../tatooine
+  281  cd tat
+  282  cd tatooine
+  283  ls
+  284  cd ..
+  285  ls
+  286  cd tatooie
+  287  cd tatooie.txt
+  288  cd galaxy-far-far-away
+  289  ls
+  290  cd tatooie
+  291  cd tatooine
+  292  ls
+  293  ls -a
+  294  ls -al
+  295  clear
+  296  cd ..
+  297  cd death-star
+  298  cd ..
+  299  ls
+  300  cd death-star
+  301  cp storm-trooper.txt ../tatooine/
+  302  cp /star-wars/death-star/storm-trooper.txt /star-wars/galaxy-far-far-away/tatooine/
+  303  clear
+  304  cp /star-wars/death-star/storm-trooper.txt /star-wars/galaxy-far-far-away/tatooine/
+  305  cp death-star/storm-trooper.txt galaxy-far-far-away/tatooine/
+  306  cd ..
+  307  cp death-star/storm-trooper.txt galaxy-far-far-away/tatooine/
+  308  mv luke.txt, ben-kenobi.txt /millenium-falcon
+  309  mv galaxy-far-far-away/tatooine/luke.txt galaxy-far-far-away/tatooine/millenium-falcon/
+  310  mv galaxy-far-far-away/tatooine/ben-kenobi.txt galaxy-far-far-away/tatooine/millenium-falcon/ \n
+  311  mv galaxy-far-far-away/tatooine/millenium-falcon galaxy-far-far-away/
+  312  mv galaxy-far-far-away/millenium-falcon death-star/
+  313  mv death-star/princess-leia.txt death-star/millenium-falcon/
+  314  mv ben-kenobi.txt obi-wan.txt
+  315  Practice:\n\nRename ben-kenobi.txt to obi-wan.txt.Practice:\n\nRename ben-kenobi.txt to obi-wan.txt.Practice:\n\nRename ben-kenobi.txt to obi-wan.txt.Practice:\n\nRename ben-kenobi.txt to obi-wan.txt.Practice:\n\nRename ben-kenobi.txt to obi-wan.txt.Practice:\n\nRename ben-kenobi.txt to obi-wan.txt.q
+  316  clear
+  317  mv galaxy-far-far-away/tatooine/millenium-falcon/ben-kenobi.txt galaxy-far-far-away/tatooine/millenium-falcon/obi-wan.txt \n
+  318  mv galaxy-far-far-away/tatooine/millenium-falcon/ben-kenobi.txt galaxy-far-far-away/tatooine/millenium-falcon/obi-wan.txt
+  319  clear
+  320  ls
+  321  mv galaxy-far-far-away/tatooine/millenium-falcon/ben-kenobi.txt galaxy-far-far-away/tatooine/millenium-falcon/obi-wan.txt
+  322  mv: rename galaxy-far-far-away/tatooine/millenium-falcon/ben-kenobi.txt to galaxy-far-far-away/tatooine/millenium-falcon/obi-wan.txt: No such file or directory\n\n
+  323  mv death-star/millenium-falcon/ben-kenobi.txt death-star/millenium-falcon/obi-wan.txt
+  324  rm obi-wan.txt
+  325  rm death-star/millenium-falcon/obi-wan.txt
+  326  ls
+  327  cd galaxy-far-far-away
+  328  ls
+  329  mkdir yavin-4
+  330  ls
+  331  In the galaxy-far-far-away directory, make a directory called yavin-4.\n\nMove the millenium-falcon directory out of the death-star directory and into the yavin-4 directory.\n\nMake a directory in the yavin-4 directory called x-wing.\n\nMove princess-leia.txt to the yavin-4 directory and luke.txt to the x-wing directory.\n\nMove the millenium-falcon directory and the x-wing directory out of the yavin-4 directory and into the galaxy-far-far-away directory.
+  332  mv death-star/millenium-falcon galawy-far-far-away/yavin-4/
+  333  cd ..
+  334  mv death-star/millenium-falcon galawy-far-far-away/yavin-4/
+  335  mv death-star/millenium-falcon galaxy-far-far-away/yavin-4/
+  336  In the galaxy-far-far-away directory, make a directory called yavin-4.\n\nMove the millenium-falcon directory out of the death-star directory and into the yavin-4 directory.\n\nMake a directory in the yavin-4 directory called x-wing.\n\nMove princess-leia.txt to the yavin-4 directory and luke.txt to the x-wing directory.\n\nMove the millenium-falcon directory and the x-wing directory out of the yavin-4 directory and into the galaxy-far-far-away directory.
+  337  ls
+  338  cd galaxy-far-far-away
+  339  ls
+  340  cd yavin-4
+  341  ls
+  342  mkdir x-wing
+  343  ls
+  344  In the galaxy-far-far-away directory, make a directory called yavin-4.\n\nMove the millenium-falcon directory out of the death-star directory and into the yavin-4 directory.\n\nMake a directory in the yavin-4 directory called x-wing.\n\nMove princess-leia.txt to the yavin-4 directory and luke.txt to the x-wing directory.\n\nMove the millenium-falcon directory and the x-wing directory out of the yavin-4 directory and into the galaxy-far-far-away directory.
+  345  clear
+  346  mv death-star/princess-leia.txt galaxy-far-far-away/yavin-4/
+  347  In the galaxy-far-far-away directory, make a directory called yavin-4.\n\nMove the millenium-falcon directory out of the death-star directory and into the yavin-4 directory.\n\nMake a directory in the yavin-4 directory called x-wing.\n\nMove princess-leia.txt to the yavin-4 directory and luke.txt to the x-wing directory.\n\nMove the millenium-falcon directory and the x-wing directory out of the yavin-4 directory and into the galaxy-far-far-away directory.
+  348  mv death-star/princess-leia.txt galaxy-far-far-away/yavin-4/
+  349  cd ..
+  350  mv death-star/princess-leia.txt galaxy-far-far-away/yavin-4/
+  351  mv death-star/princess-leia.txt galaxy-far-far-away/yavin-4/In the galaxy-far-far-away directory, make a directory called yavin-4.\n\nMove the millenium-falcon directory out of the death-star directory and into the yavin-4 directory.\n\nMake a directory in the yavin-4 directory called x-wing.\n\nMove princess-leia.txt to the yavin-4 directory and luke.txt to the x-wing directory.\n\nMove the millenium-falcon directory and the x-wing directory out of the yavin-4 directory and into the galaxy-far-far-away directory.
+  352  clear
+  353  mv death-star/princess-leia.txt galaxy-far-far-away/yavin-4/
+  354  mv death-star/princess-leia.txt galaxy-far-far-away/yavin-4
+  355  mv death-star/princess-leia.txt galaxy-far-far-away/yavin-4/
+  356  find galaxy-far-far-away -name princess-leia.txt
+  357  mv galaxy-far-far-away/yavin-4/millenium-falcon/princess-leia.txt galaxy-far-far-away/yavin-4/
+  358  mv galaxy-far-far-away/yavin-4/millenium-falcon/luke.txt galaxy-far-far-away/yavin-4/x-wing/
+  359  mv galaxy-far-far-away/yavin-4/millenium-falcon galaxy-far-far-away/
+  360  mv galaxy-far-far-away/yavin-4/x-wing galaxy-far-far-away/
+  361  ls
+  362  cd death-star
+  363  ls
+  364  mkdir tie-fighter-1
+  365  mkdir tie-fighter-2
+  366  mkdir tie-fighter-3
+  367  ls
+  368  mv death-star/darth-vader.txt death-star/tie-fighter-1/
+  369  ls
+  370  cd ..
+  371  mv death-star/darth-vader.txt death-star/tie-fighter-1/
+  372  cp death-star/storm-trooper.txt death-star/tie-fighter-2/
+  373  cp death-star/storm-trooper.txt death-star/tie-fighter-3/
+  374  mv death-star/tie-fighter-* galaxy-far-far-away/
+  375  rm -r tie-fighter-2
+  376  rm -r galaxy-far-far-away/tie-fighter-2
+  377  rm -r galaxy-far-far-away/tie-fighter-3
+  378  ls
+  379  cd galaxy-far-far-away
+  380  ls
+  381  cd x-wing
+  382  ls
+  383  touch the-force.txt
+  384  cd ..
+  385  ls
+  386  v
+  387  cd ..
+  388  ls
+  389  rm -r death-star
+  390  mv galaxy-far-far-away/x-wing galaxy-far-far-away/yavin-4/\nmv galaxy-far-far-away/millenium-falcon galaxy-far-far-away/yavin-4/
+  391  mv galaxy-far-far-away/millenium-falcon galaxy-far-far-away/yavin-4/
+  392  mv galaxy-far-far-away/x-wing galaxy-far-far-away/yavin-4/
+  393  ls
+  394  cd galaxy-far-far-away
+  395  ls
+  396  cd yavin-4
+  397  ls
+  398  mv galaxy-far-far-away/x-wing galaxy-far-far-away/yavin-4/\nmv galaxy-far-far-away/millenium-falcon galaxy-far-far-away/yavin-4
+  399  cd ~/code/ga/labs
+  400  ls
+  401  clear
+  402  git clone https://github.com/fatimaAlku/u1-intro-to-cli-lab.git
+  403  cd u1-intro-to-cli-lab
+  404  code .
+  405  touch solution.txt
+  406  ls
+
