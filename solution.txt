@@ -1,0 +1,82 @@
+ 83  cd ~/code/ga/labs
+   84  ls
+   85  cd star-wars
+   86  mkdir galaxy-far-far-away
+   87  touch galaxy-far-far-away/luke.txt ben-kenobi.txt
+   88  touch galaxy-far-far-away/tatooine/luke.txt ben-kenobi.txt
+   89  mkdir galaxy-far-far-away
+   90  ls
+   91  rm ben-kenobi.txt
+   92  ls
+   93  ls .
+   94  ls death-star
+   95  ls galaxy-far-far-away
+   96  cd galaxy-far-far-away
+   97  rm luke.txt
+   98  mkdir tatooine
+   99  cd tatooine
+  100  touch luke.txt ben-kenobi.txt
+  101  ls
+  102  mkdir millenium-falcon
+  103  touch han-solo.txt chewbacca.txt
+  104  clear
+  105  cd
+  106  clear
+  107  ls
+  108  cd code/ga/labs
+  109  ls
+  110  cd star-wars
+  111  ls
+  112  clear
+  113  cp death-star/storm-trooper.txt galaxy-far-far-away/tatooine
+  114  mv galaxy-far-far-away/tatooine/luke.txt galaxy-far-far-away/tatooine/millenium-falcon
+  115  mv galaxy-far-far-away/tatooine/ben-kenobi.txt galaxy-far-far-away/tatooine/millenium-falcon
+  116  mv galaxy-far-far-away/tatooine/millenium-falcon death-star
+  117  mv death-star/princess-leia.txt millemium-falcon/
+  118  mv galaxy-far-far-away/tatooine/millenium-falcon/ death-star
+  119  clera
+  120  clear
+  121  ls
+  122  ls galaxy-far-far-away
+  123  ls R galaxy-far-far-away
+  124  ls r galaxy-far-far-away
+  125  ls galaxy-far-far-away
+  126  ls galaxy-far-far-away/tatooine
+  127  ls death-star
+  128  ls death-star/millenium-falcon
+  129  clear
+  130  mv death-star/princess-leia.txt death-star/millenium-falcon
+  131  mv death-star/millenium-falcon/ben-kenobi.txt death-star/millenium-falcon/obi-wan.txt
+  132  rm death-star/millenium-falcon/obi-wan.txt
+  133  clear
+  134  mkdir galaxy-far-far-away/yavin-4
+  135  mv death-star/millenium-falcon galaxy-far-far-away/yavin-4
+  136  mkdir galaxy-far-far-away/yavin-4/x-wing
+  137  mv galaxy-far-far-away/yavin-4/millenium-falcon/luke.txt galaxy-far-far-away/yavin-4/x-wing
+  138  mv galaxy-far-far-away/yavin-4/millenium-falcon/princess-leia.txt galaxy-far-far-away/yavin-4
+  139  mv galaxy-far-far-away/yavin-4/millenium-falcon galaxy-far-far-away
+  140  mv galaxy-far-far-away/yavin-4/x-wing galaxy-far-far-away
+  141  cd death-star
+  142  l
+  143  sls
+  144  ls
+  145  mkdir tie-fighter-1 tie-fighter-2 tie-fighter-3
+  146  mv darth-vader.txt tie-fighter-1
+  147  cp storm-trooper.txt tie-fighter-2
+  148  cp storm-trooper.txt tie-fighter-3
+  149  cd
+  150  cd code/ga/labs/star-wars
+  151  ls
+  152  mv death-star/tie-fighter-1 galaxy-far-far-away
+  153  mv death-star/tie-fighter-2 galaxy-far-far-away
+  154  mv death-star/tie-fighter-3 galaxy-far-far-away
+  155  rm galaxy-far-far-away/tie-fighter-2
+  156  rm -r galaxy-far-far-away/tie-fighter-2
+  157  rm -r galaxy-far-far-away/tie-fighter-3
+  158  touch galaxy-far-far-away/x-wing/the-force.txt
+  159  rm-r death-star
+  160  rm -r death-star
+  161  mv galaxy-far-far-away/millenium-falcon galaxy-far-far-away/yavin-4
+  162  mv galaxy-far-far-away/x-wing galaxy-far-far-away/yavin-4
+  163  ls
+  164  clear
