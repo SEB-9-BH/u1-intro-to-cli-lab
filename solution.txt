@@ -1,0 +1,21 @@
+ 6045  mkdir star-wars
+ 6046  ls
+ 6047  cd star-wars
+ 6048  clear
+ 6049  history
+ 6050  clear
+ 6051  cd ..
+ 6052  ls
+ 6053  rm -rf my-first-repo
+ 6054  ls
+ 6055* cd ..
+ 6056* mkdir homework-submission
+ 6057  cd labs
+ 6058  ls
+ 6059  git clone git@github.com:kavdesilva/u1-intro-to-cli-lab.git
+ 6060  cd u1-intro-to-cli-lab
+ 6061  code .
+ 6062  touch solution.txt
+ 6063  ls
+ 6064  history
+ 6065  clear
