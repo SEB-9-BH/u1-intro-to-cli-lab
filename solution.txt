@@ -167,3 +167,63 @@
   221  touch solution.txt
   222  ls
   223  history
+  224  git add -A
+  225  git commit -m
+  226  git commit -m "solution"
+  227  git pust origin main
+  228  git oush origin main
+  229  git push origin main
+  230  pwd
+  231  cd ..
+  232  cd star-wars/
+  233  cd death-star/
+  234  ls
+  235  mv princess-leia.txt /c/Users/Administrator/code/labs/star-wars/galaxy-far-far-away/yavin-4/
+  236  ls
+  237  cd ..
+  238  cd galaxy-far-far-away/
+  239  cd yavin-4/
+  240  cd millenium-falcon/
+  241  ls
+  242  mv luke.txt /c/Users/Administrator/code/labs/star-wars/galaxy-far-far-away/yavin-4/x-wing/
+  243  cd ..
+  244  mv millenium-falcon/ /c/Users/Administrator/code/labs/star-wars/galaxy-far-far-away/
+  245  ls
+  246  mv x-wing/ /c/Users/Administrator/code/labs/star-wars/galaxy-far-far-away/
+  247  ls
+  248  cd ..
+  249  cd ..
+  250  cd death-star/
+  251  mkdir tie-fighter-1 tie-fighter-2 tie-fighter-3
+  252  mv darth-vader.txt /c/Users/Administrator/code/labs/star-wars/death-star/tie-fighter-1
+  253  ls
+  254  cp storm-trooper.txt ../tie-fighter-2 ../tie-fighter-3
+  255  cp storm-trooper.txt ./tie-fighter-2 ./tie-fighter-3
+  256  cp storm-trooper.txt ./tie-fighter-2
+  257  mv tie-fighter-1 /c/Users/Administrator/code/labs/star-wars/galaxy-far-far-away/
+  258  ls
+  259  mv tie-fighter-2 /c/Users/Administrator/code/labs/star-wars/galaxy-far-far-away/
+  260  mv tie-fighter-3/ /c/Users/Administrator/code/labs/star-wars/galaxy-far-far-away/
+  261  ls
+  262  cd ..
+  263  cd galaxy-far-far-away/
+  264  rm tie-fighter-2
+  265  rm -r tie-fighter-2
+  266  ls
+  267  rm -r tie-fighter-3
+  268  cd x-wing/
+  269  touch the-force.txt
+  270  ls
+  271  cd ..
+  272  cd ..
+  273  ls
+  274  rm -r death-star/
+  275  ls
+  276  cd galaxy-far-far-away/
+  277  ls
+  278  mv x-wing/ /c/Users/Administrator/code/labs/star-wars/galaxy-far-far-away/yavin-4/
+  279  ls
+  280  mv millenium-falcon/ /c/Users/Administrator/code/labs/star-wars/galaxy-far-far-away/yavin-4/
+  281  cd ~/code/labs
+  282  clear
+  283  history
