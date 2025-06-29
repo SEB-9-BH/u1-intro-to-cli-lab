@@ -1,0 +1,118 @@
+mkdir star-wars
+   57  cd..
+   58  cd ..
+   59  clear
+   60  ls
+   61  cd code
+   62  ls
+   63  cd my-project
+   64  clar
+   65  clear
+   66  cd ~/code/ga/labs
+   67  cd ..
+   68  clear
+   69  cd code
+   70  ls
+   71  mkdir unit1 unit2 unit3 unit4
+   72  ls
+   73  cd unit1
+   74  mkdir labs homeWork lesson
+   75  ls
+   76  cd labs
+   77  mkdir star-wars
+   78  cd star-wars
+   79  cd
+   80  ls
+   81  cd code
+   82  cd uint1/labs/star-wars
+   83  cd unit1/labs/star-wars/
+   84  code .
+   85  mkidr death-star
+   86  cd death-star
+   87  mkdir death-star
+   88  cd deatch-star
+   89  clear
+   90  mkdir death-star
+   91  cd death-star
+   92  touch darth-vader.txt
+   93  cd..
+   94  cd ..
+   95  mkdir galaxy-far-far-away
+   96  cd galaxy-far-far-away
+   97  toch luke.txt
+   98  touch luke.txt
+   99  mkdir tatooine
+  100  cd tatooine
+  101  mv luke.txt tatooine
+  102  ls
+  103  cd ..
+  104  ls
+  105  mv luke.txt tatooine
+  106  ls
+  107  cd tatooine/
+  108  ls
+  109  touch ben-knobi.txt
+  110  mkdir millenium-falcon
+  111  cd millenium-falcon
+  112  touch han-solo.txt
+  113  touch chewbacca.txt
+  114  cd ..
+  115  cd ..
+  116  cd ..
+  117  cp
+  118  cp death-star/storm-trooper.txt galaxy-far-far-away/tatooine/
+  119  cd death-star/
+  120  ls
+  121  cd ..
+  122  cd galaxy-far-far-away/
+  123  ls
+  124  cd tatooine/
+  125  ls
+  126  cd millenium-falcon/
+  127  ls
+  128  cd ..
+  129  cd ..
+  130  cd ..
+  131  cd death-star
+  132  touch storm-trooper.txt
+  133   cp death-star/storm-trooper.txt galaxy-far-far-away/tatooine/
+  134  cd death-star/
+  135  ls
+  136  cd ..
+  137  cp death-star/storm-trooper.txt galaxy-far-far-away/tatooine/
+  138  cd galaxy-far-far-away/
+  139  ls
+  140  cd tatooine/
+  141  ls
+  142  cd ..
+  143  cd ..
+  144  mv galaxy-far-far-away/tatooine/luke.txt galaxy-far-far-away/tatooine/ben-knobi.txt galaxy-far-far-away/tatooine/millenium-falcon/
+  145  cd galaxy-far-far-away/tatooine/millenium-falcon/
+  146  ls
+  147  mv millenium galaxy-far-faraway
+  148  cd ..
+  149  mv millenium-falcon/ galaxy-far-far-away
+  150  cd galaxy-far-far-away/
+  151  ls
+  152  ls
+  153  cd ..
+  154  cd ..
+  155  ls
+  156  mv millwnium-falcon galaxy-far-far-away
+  157  cd..
+  158  cd ..
+  159  cd galaxy-far-far-away/
+  160  ls
+  161  cd tatooine/
+  162  ls
+  163  mv galaxy-far-far-away/ millenium-falcon
+  164  ls
+  165  cd ..
+  166  pwd
+  167  cd ..
+  168  cd galaxy-far-far-away/tatooine/
+  169  mv millenium-falcon/ /c/Users/user/code/unit1/labs/star-wars/galaxy-far-far-away/
+  170  ls
+  171  cd ..
+  172   ls
+  173  history
