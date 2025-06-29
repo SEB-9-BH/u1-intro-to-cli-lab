@@ -1,0 +1,274 @@
+54  mkdir star-wars
+   55  cd star-wars
+   56  pwd
+   57  cd ..
+   58  mkdir death-star
+   59  ls
+   60  cd death-star/
+   61  touch darth-vader.txt princess-leia.txt storm-trooper.txt
+   62  ls
+   63  cd ..
+   64  cd star-wars/
+   65  mkdir galaxy-far-far-away
+   66  ls
+   67  cd galaxy-far-far-away/
+   68  mkdir tatooine
+   69  cd tatooine/
+   70  touch luke.txt ben-kenobi.txt
+   71  mkdir millenium-falcon
+   72  cd millenium-falcon/
+   73  touch han-solo.txt chewbacca.txt
+   74  cd ..
+   75  cd ..
+   76  cd ..
+   77  cd ..
+   78  cp death-star/storm-trooper.txt star-wars/galaxy-far-far-away/tatooine
+   79  cd star-wars/
+   80  cd galaxy-far-far-away/tatooine/
+   81  ls
+   82  mv luke.txt ben-kenobi.txt /millenium-falcon
+   83  ls
+   84  mv luke.txt millenium-falcon/
+   85  mv ben-kenobi.txt millenium-falcon/
+   86  cd millenium-falcon/
+   87  ls
+   88  cd ..
+   89  cd ..
+   90  cd ..
+   91  cd ..
+   92  cd star-wars/
+   93  cd galaxy-far-far-away/tatooine/
+   94  mv millenium-falcon/galaxy-far-far-away
+   95  mv millenium-falcon/ ../
+   96  cd ..
+   97  ls
+   98  mv millenium-falcon/ death-star
+   99  cd ..
+  100  cd ..
+  101  ls
+  102  cd death-star/
+  103  ls
+  104  mv millenium-falcon death-star
+  105  ls
+  106  cd ..
+  107  ls
+  108  cd star-wars/
+  109  ls
+  110  cd galaxy-far-far-away/
+  111  ls
+  112  cd death-star/
+  113  ls
+  114  cd ..
+  115  rmdir death-star/
+  116  ls
+  117  rmdir death-star
+  118  ls
+  119  cd death-star/
+  120  ls
+  121  rm ben-kenobi.txt chewbacca.txt han-solo.txt luke.txt
+  122  c ..
+  123  cd ..
+  124  ls
+  125  rmdir death-star
+  126  ls
+  127  cd ..
+  128  cd ..
+  129  cd star-wars/galaxy-far-far-away/tatooine/
+  130  ls
+  131  cd ..
+  132  ls
+  133  cd tatooine/
+  134  mkdir millenium-falcon
+  135  cd millenium-falcon/
+  136  touch han-solo.txt chewbacca.txt
+  137  ls
+  138  cd ..
+  139  cd ..
+  140  cd ..
+  141  cd ..
+  142  ls
+  143  cd death-star/
+  144  ls
+  145  mv storm-trooper.txt star-wars/galaxy-far-far-away/tatooine
+  146  mv storm-trooper.txt star-wars/galaxy-far-far-away/tatooine/
+  147  mv storm-trooper.txt ../star-wars/galaxy-far-far-away/tatooine
+  148  cd ..
+  149  cd star-wars/galaxy-far-far-away/tatooine/
+  150  ls
+  151  cd ..
+  152  cd ..
+  153  cd ..
+  154  cd death-star/
+  155  ls
+  156  touch strom-tropper.txt
+  157  ls
+  158  rm  strom-tropper.txt
+  159  touch strom-trooper.txt
+  160  ls
+  161  cd..
+  162  cd ..
+  163  luke.txt /millenium-falcon
+  164  mv luke.txt millenium-falcon
+  165  ls
+  166  mv death-star/ star-wars/death-star/
+  167  ls
+  168  cd star-wars
+  169  ls
+  170  cd death-star/
+  171  ls
+  172  cd ..
+  173  cd galaxy-far-far-away/
+  174  ls
+  175  cd tatooine/
+  176  ls
+  177  cd millenium-falcon/
+  178  ls
+  179  cd ..
+  180  cd ..
+  181  cd ..
+  182  cd death-star/
+  183  touch luke.txt chewbacca.txt
+  184  mv luke.txt ../galaxy-far-far-away/tatooine/millenium-falcon/
+  185  cd ../galaxy-far-far-away/tatooine/millenium-falcon/
+  186  ls
+  187  cd ..
+  188  cd ..
+  189  cd ..
+  190  cd death-star/
+  191  touch ben-kenobi.txt
+  192   mv luke.txt ../galaxy-far-far-away/tatooine/millenium-falcon
+  193   mv ben-kenobi.txt ../galaxy-far-far-away/tatooine/millenium-falcon/
+  194  cd ..
+  195  cd..
+  196  cd ..
+  197  cd  ../galaxy-far-far-away/tatooine/millenium-falcon
+  198  cd star-wars/
+  199  mv galaxy-far-far-away/tatooine/millenium-falcon/ben-kenobi.txt death-star/
+  200  cd death-star/
+  201  ls
+  202  mv princess-leia.txt ../galaxy-far-far-away/tatooine/millenium-falcon/
+  203  cd ../galaxy-far-far-away/tatooine/millenium-falcon/
+  204  ls
+  205  cd ../
+  206  cd ..
+  207  cd ..
+  208  cd death-star/
+  209  ls
+  210  mv ben-kenobi.txt obi-wan.txt
+  211  ls
+  212  rm obi-wan.txt
+  213  ls
+  214  cd ..
+  215  ls
+  216  cd galaxy-far-far-away/
+  217  mkdir yavin-4
+  218  ls
+  219  cd ..
+  220  ls
+  221  cd death-star/
+  222  ls
+  223  cd ..
+  224  cd galaxy-far-far-away/
+  225  ls
+  226  cd ..
+  227  cd ..
+  228  ls
+  229  cd ..
+  230  ls
+  231  code .
+  232  ls
+  233  cd labs
+  234  cd star-wars/
+  235  cd galaxy-far-far-away/
+  236  cd tatooine/
+  237  ls
+  238  mv millenium-falcon/ ../../death-star/
+  239  ls
+  240  ls
+  241  cd ..
+  242  cd ..
+  243  ls
+  244  cd death-star/
+  245  ls
+  246  cd millenium-falcon/
+  247  ls
+  248  cd ..
+  249  cd ..
+  250  ls
+  251  cd galaxy-far-far-away/
+  252  ls
+  253  cd yavin-4/
+  254  mkdir  x-wing
+  255  cd ..
+  256  ls
+  257  cd yavin-4/
+  258  ls
+  259  cd ..
+  260  ls
+  261  cd tatooine/
+  262  ls
+  263  cd ..
+  264  cd ..
+  265  ls
+  266  cd death-star/
+  267  ls
+  268  cd millenium-falcon/
+  269  ls
+  270  mv princess-leia.txt ../../galaxy-far-far-away/yavin-4/
+  271  mv luke.txt ../../galaxy-far-far-away/yavin-4/x-wing/
+  272  ls
+  273  cd ..
+  274  mv millenium-falcon/ ../galaxy-far-far-away/
+  275  cd ..
+  276  ls
+  277  cd galaxy-far-far-away/
+  278  ls
+  279  cd millenium-falcon/
+  280  ls
+  281  cd ..
+  282  ls
+  283  cd yavin-4/
+  284  ls
+  285  mv x-wing/ ../../galaxy-far-far-away/
+  286  cd ..
+  287  ls
+  288  cd ..
+  289  ls
+  290  cd death-star/
+  291  mkdir tie-fighter-1 tie-fighter-2 tie-fighter-3
+  292  cd ..
+  293  ls
+  294  cd death-star/
+  295  ;s
+  296  ls
+  297  mv darth-vader.txt tie-fighter-1
+  298  cp storm-trooper.txt tie-fighter-2
+  299  cp storm-trooper.txt tie-fighter-3
+  300  ls
+  301  mv tie-fighter-1 ../galaxy-far-far-away/
+  302  mv tie-fighter-2 ../galaxy-far-far-away/
+  303  mv tie-fighter-3 ../galaxy-far-far-away/
+  304  cd ..
+  305  ls
+  306  cd galaxy-far-far-away/
+  307  ls
+  308  rm -r tie-fighter-2
+  309  rm -r tie-fighter-3
+  310  cd x-wing/
+  311  touch the-force.txt
+  312  cd ..
+  313  cd ..
+  314  ls
+  315  rm -r death-star/
+  316  ls
+  317  cd galaxy-far-far-away/
+  318  ls
+  319  mv x-wing/ yavin-4/
+  320  mv millenium-falcon/ yavin-4/
+  321  cd ../../
+  322  git clone https://github.com/Fatema-Alzaki/u1-intro-to-cli-lab.git
+  323  cd u1
+  324  cd u1-intro-to-cli-lab/
+  325  code .
+  326  touch solution .text
+  327  history
