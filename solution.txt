@@ -1,0 +1,113 @@
+ 10  mkdir star-wars
+   11  ls
+   12  cd star-wars
+   13  mkdir death-star
+   14  ls
+   15  cd death-star/
+   16  touch darth-vader.txt princess-leia.txt storm-trooper.txt
+   17  ls
+   18  cd ..
+   19  mkdir galaxy-far-far-away
+   20  ls
+   21  cd galaxy-far-far-away
+   22  mkdir tatooine
+   23  cd tatooine
+   24  touch luke.txt ben-kenobi.txt
+   25  mkdir millenium-falcon
+   26  cd millenium-falcon
+   27  cd millenium-falcon
+   28  touch han-solo.txt chewbacca.txt
+   29  cd ..
+   30  cd ..
+   31  cp storm-trooper.txt ../galaxy-far-far-away/tatooine
+   32  cp storm-trooper.txt ./galaxy-far-far-away/tatooine
+   33  cd ..
+   34  cp storm-trooper.txt ./galaxy-far-far-away/tatooine
+   35  cp storm-trooper.txt ../galaxy-far-far-away/tatooine
+   36  history
+   37  cp storm-trooper.txt ../galaxy-far-far-away/tatooine
+   38  ls
+   39  cd death-star/
+   40  pwd
+   41  ls
+   42  cd ..
+   43  ls
+   44  cd galaxy-far-far-away/
+   45  ls
+   46  pwd
+   47  cd tatooine/
+   48  pwd
+   49  cp storm-trooper.txt /c/Users/sakee/code/labs/star-wars/galaxy-far-far-away/tatooine
+   50  ls
+   51  cp storm-trooper.txt ../galaxy-far-far-away/tatooine
+   52  cd ..
+   53  cp storm-trooper.txt ../galaxy-far-far-away/tatooine
+   54  cd ..
+   55  ls
+   56  cd death-star/
+   57  ls
+   58  cp storm-trooper.txt ../galaxy-far-far-away/tatooine
+   59  cd ..
+   60  cd galaxy-far-far-away/tatooine/
+   61  ls
+   62  ls
+   63  mv ben-kenobi.txt luke.txt ../millenium-falcon/
+   64  mv ben-kenobi.txt luke.txt ../millenium-falcon
+   65  mv luke.txt ../millenium-falcon
+   66  mv ben-kenobi.txt ../millenium-falcon
+   67  ls
+   68  cd millenium-falcon/
+   69  ls
+   70  cd ..
+   71  cd ..
+   72  ls
+   73  cd ..
+   74  ls
+   75  cd galaxy-far-far-away/
+   76  ls
+   77  cd ..
+   78  ls
+   79  cd death-star/
+   80  ls
+   81  cd ..
+   82  cd ..
+   83  ls
+   84  cd ..
+   85  ls
+   86  cd lsbs
+   87  cd labs
+   88  ls
+   89  cd star-wars/
+   90  ls
+   91  cd galaxy-far-far-away/
+   92  ls
+   93  cd tatooine/
+   94  ls
+   95  touch luke.txt
+   96  ls
+   97  mv luke.txt ../millenium-falcon/luke.txt
+   98*
+   99  ls
+  100  cd millenium-falcon/
+  101  ls
+  102  cd ..
+  103  touch ben-kenobi.txt
+  104  mv ben-kenobi.txt ../millenium-falcon/ben-kenobi.txt
+  105  mv ben-kenobi.txt ./millenium-falcon/ben-kenobi.txt
+  106  cd millenium-falcon/
+  107  ls
+  108  mv millenium-falcon ../millenium-falcon
+  109  mv millenium-falcon ../millenium-falcon/
+  110  mv millenium-falcon ./millenium-falcon/
+  111  ls
+  112  cd ..
+  113  mv millenium-falcon/ ../millenium-falcon/
+  114  mv millenium-falcon/ ../
+  115  cd ..
+  116  ls
+  117  rm millenium-falcon
+  118  ls
+  119  cd tatooine/
+  120  ls
+  121  mv millenium-falcon/ ../
+  122  cd ..
