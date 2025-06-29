@@ -1,0 +1,128 @@
+ ..
+  361  clear
+  362  mkdir galaxy-far-far-away
+  363  cd galaxy-far-far-awaya
+  364  ls\\nls
+  365  ls
+  366  cd galaxy-far-far-away
+  367  mkdir tatooine 
+  368  cd tatooine 
+  369  touch luke.txt ben-kenobi.txt
+  370  mkdir millenium-falcon
+  371  cd millenium-falcon
+  372  touch han-solo.txt chewbacca.txt 
+  373  clear
+  374  ls
+  375  cd ..
+  376  ls
+  377  cd ..
+  378  ls
+  379  cd ..
+  380  ls
+  381  cd death-star
+  382  ls
+  383  cp storm.trooper.txt /tatooine
+  384  rm storm.trooper.txt
+  385  touch storm.trooper.txt
+  386  ls
+  387  rm -fr storm.trooper.txt
+  388  ls
+  389  cp storm-trooper.txt t
+  390  ls
+  391  cp storm-trooper.txt /tatooine
+  392  .cd ..
+  393  cd ..
+  394  ls
+  395  galaxy-far-far-away
+  396  ls
+  397  cd tatooine
+  398  ls
+  399  cp storm-trooper.txt  
+  400  ls
+  401  cd ..
+  402  ls
+  403  clear
+  404  cd galaxy-far-far-away
+  405  ls
+  406  cd ..
+  407  ls
+  408  cd death-star
+  409  ls
+  410  rm -rf storm.trooper.txt t
+  411  ls
+  412  cp storm-trooper.txt /tatooine
+  413  clear
+  414  pwd
+  415  clear
+  416  cp storm-trooper.txt ../galaxy-far-far-away/tatooine/\n
+  417  ls
+  418  cd ..
+  419  ls
+  420  cd galaxy-far-far-away
+  421  ls
+  422  cd tatooine
+  423  ls
+  424  mv luke.txt ben-kenobi.txt ../tatooine/millenium-falcon
+  425  ls
+  426  /clear
+  427  clear
+  428  mv /tatooine/millenume-falcon /galaxy-far-far-away
+  429  clear
+  430  ls
+  431  /clear
+  432  clear
+  433  mv galaxy-far-far-away/tatooine/millenium-falcon galaxy-far-far-away/\n
+  434  clear
+  435  pwd
+  436  clear 
+  437  pwd 
+  438  mv millenium-falcon ../\n
+  439  ls
+  440  clear
+  441  cd ..
+  442  cd death-star
+  443  ls
+  444  cd ..
+  445  ls
+  446  cd galaxy-far-far-away
+  447  ls
+  448  mv /millenium-falcon /death-star
+  449  mv ./millenium-falcon /death-star
+  450  mv ./millenium-falcon ./death-star
+  451  clear
+  452  ls
+  453  cd death-star
+  454  ls
+  455  cd ..
+  456  cd..
+  457  cd ..
+  458  ls
+  459  cd galaxy-far-far-away
+  460  ls
+  461  clear
+  462  pwd
+  463  cd ..
+  464  pwd
+  465  ls
+  466  cd galaxy-far-far-away
+  467  ls
+  468  cd ..
+  469  ls
+  470  mdkir unit1 unit2 unit3 unit4
+  471  mkdir unit1 unit2 unit3 unit4
+  472  ls
+  473  mv labs unit1
+  474  mv lectures unit1
+  475  cd unit
+  476  cd unit1
+  477  ls
+  478  mkdir homework
+  479  cd labs
+  480  git clone https://github.com/xpo1256/u1-intro-to-cli-lab.git
+  481  cd labs
+  482  ls
+  483  cd lab
+  484  ls
+  485  cd u1-intro-to-cli-lab
+  486  code .
+  487  touch solution.txt
