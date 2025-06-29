@@ -1,0 +1,255 @@
+1026  mkdir star-wars
+ 1027  ls
+ 1028  cd labs
+ 1029  cd star-wars
+ 1030  mkdir death-star
+ 1031  ls
+ 1032  cd death-star
+ 1033  ls
+ 1034  mkdir darth-vader.txt princess-leia.txt storm-trooper.txt
+ 1035  ls
+ 1036  cd ..
+ 1037  mkdir galaxy-far-far-away
+ 1038  ls
+ 1039  cd g
+ 1040  cd galaxy-far-far-away
+ 1041  mkdor tatooine
+ 1042  mkdir tatooine
+ 1043  cd tatooine
+ 1044  mkdir luke.txt ben-kenobi.txt
+ 1045  cd ..
+ 1046  ls
+ 1047  cd death-star
+ 1048  ls
+ 1049  rmdir darth-vader.txt
+ 1050  ls
+ 1051  rmdir princess-leia.txt storm-trooper.txt
+ 1052  ls
+ 1053  touch darth-varder.txt princess-leia.txt storm-trooper.txt
+ 1054  ls
+ 1055  cd ..
+ 1056  ls
+ 1057  cd galaxy-far-far-away
+ 1058  ls
+ 1059  cd tatooine
+ 1060  ls
+ 1061  rmdir ben-kenboi.txt luke.txt
+ 1062  ls
+ 1063  rmdir ben-kenobi.txt
+ 1064  ls
+ 1065  touch luke.txt ben-kenobi.txt
+ 1066  ls
+ 1067  mkdir millenium-falcon
+ 1068  ls
+ 1069  cd millenium-falcon
+ 1070  touch han-solo.txt chewbacca.txt
+ 1071  ls
+ 1072  cd ~
+ 1073  pwd
+ 1074  man cp
+ 1075  Q
+ 1076  cd starwars
+ 1077  ls
+ 1078  cd code
+ 1079  ls
+ 1080  cd ga
+ 1081  cd labs
+ 1082  ls
+ 1083  cd star-wars
+ 1084  ls
+ 1085  cd death-star
+ 1086  ls
+ 1087  cp storm-trooper.txt tatooine
+ 1088  ls
+ 1089  rm tatooine
+ 1090  ls
+ 1091  cd ..
+ 1092  ls
+ 1093  cd galaxy-far-far-away
+ 1094  ls
+ 1095  cd tatoine
+ 1096  cd tatooine
+ 1097  ls
+ 1098  cd ..
+ 1099  cd death-star
+ 1100  ls
+ 1101  cp storm-trooper.txt ../galaxy-far-far-away/tatooine
+ 1102  ls
+ 1103  cd ..
+ 1104  ls
+ 1105  cd galaxy-far-far-away
+ 1106  ls
+ 1107  d tatooine
+ 1108  cd tatooine
+ 1109  ls
+ 1110  mv luke.txt ben-kenobi.txt/millenium-falcon
+ 1111  man mv
+ 1112  mv luke.txt ben-kenobi.txt /millenium-falcon
+ 1113  ls
+ 1114  mv luke.txt ben-kenobi.txt /millenium-falcon/
+ 1115  mv luke.txt ben-kenobi.txt millenium-falcon
+ 1116  ls
+ 1117  mv luke.txt ben-kenobi.txt millenium-falcon/
+ 1118  mv tatooine/millenium-falcon galaxy-far-far-away/
+ 1119  cd ..
+ 1120  mv tatooine/millenium-falcon galaxy-far-far-away/
+ 1121  cd tatooine
+ 1122  mv galaxy_far_far_away/millenium-falcon death-star/
+ 1123  cd ..
+ 1124  mv galaxy_far_far_away/millenium-falcon death-star/
+ 1125  ls
+ 1126  cd tatooine
+ 1127  ls
+ 1128  cd ..
+ 1129  ls
+ 1130  cd galazy-far-far-away
+ 1131  cd galaxy-far-far-away
+ 1132  ls
+ 1133  cd ..
+ 1134  ls
+ 1135  cd ..
+ 1136  ls
+ 1137  death-star
+ 1138  ls
+ 1139  cd ..
+ 1140  ls
+ 1141  cd galaxy-far-far-away
+ 1142  ls
+ 1143  cd galaxy-far-far-away
+ 1144  ls
+ 1145  cd ..
+ 1146  ls
+ 1147  cd star-wars
+ 1148  ls
+ 1149  cd galaxy-far-far-away
+ 1150  ls
+ 1151  cd tatooine
+ 1152  ls
+ 1153  cd ..
+ 1154  ls
+ 1155  cd galaxy-far-far-away
+ 1156  ls
+ 1157  mv galaxy-far-far-away millenium-falcon
+ 1158  ls
+ 1159  cd ..
+ 1160  mv galaxy-far-far-away/millenium-falcon
+ 1161  ls
+ 1162  cd ..
+ 1163  mv galaxy-far-far-away/millenium-falcon
+ 1164  ls
+ 1165  cd galaxy-far-far-away
+ 1166  ls
+ 1167  cd 
+ 1168  q
+ 1169  pwd
+ 1170  ls
+ 1171  cd code
+ 1172  ls
+ 1173  cd ga
+ 1174  cd labs
+ 1175  ls
+ 1176  cd star-wars
+ 1177  ls
+ 1178  cd galaxy-far-far-away
+ 1179  ls
+ 1180  rm -rf galaxy-far-far-away
+ 1181  ls
+ 1182  mkdir millenium-falcon
+ 1183  ls
+ 1184  cd millenium-falcon
+ 1185  ls
+ 1186  touch han-solo.txt chewbacca.txt
+ 1187  ls
+ 1188  cd ..
+ 1189  ls
+ 1190  cd tatooine
+ 1191  ls
+ 1192  touch luke.txt ben-kenoobi.txt
+ 1193  ls
+ 1194  mv luke.txt ben-kenoobi.txt /millenium-falcon/
+ 1195  ls
+ 1196  cd ..
+ 1197  ls
+ 1198  mv luke.txt ben-kenoobi.txt /millenium-falcon/
+ 1199  mv millenium-falcon/ben-kenoobi.txt/millenium-falcon/
+ 1200  cd tootine
+ 1201  ls
+ 1202  cd tatooine
+ 1203  mv luke.txt ben-kenoobi.txt /galaxy-far-far-away/millenium-falcon
+ 1204  mv luke.txt ben-kenoobi.txt galaxy-far-far-away/millenium-falcon
+ 1205  cd ..
+ 1206  mv luke.txt ben-kenoobi.txt galaxy-far-far-away/millenium-falcon
+ 1207  cd ..
+ 1208  mv luke.txt ben-kenoobi.txt galaxy-far-far-away/millenium-falcon
+ 1209  cd ..
+ 1210  cd star-wars
+ 1211  ls
+ 1212  cd galaxy-far-far-away
+ 1213  ls
+ 1214  cd tatooine
+ 1215  ls
+ 1216  cd ..
+ 1217  ls
+ 1218  cd millenium-falcon
+ 1219  ls
+ 1220  cd ..
+ 1221  ls
+ 1222  mv millenium-falcon tatooine
+ 1223  ls
+ 1224  cd tatooine
+ 1225  ls
+ 1226  mv luke.txt ben-kenoobi.txt millenium-falcon
+ 1227  ls
+ 1228  cd millenium-falcon
+ 1229  ls
+ 1230  cd ..
+ 1231  mv millenium-falcon death-star/
+ 1232  ls
+ 1233  mv death-star millenium-falcon/
+ 1234  ls
+ 1235  cd ..
+ 1236  ls
+ 1237  mv millenium-falcon/ ../death-star
+ 1238  ls
+ 1239  cd tatooine
+ 1240  ls
+ 1241  pwd
+ 1242  mv millenium-falcon/ ../death-star
+ 1243  ls
+ 1244  cd ..
+ 1245  ls
+ 1246  cd death-star
+ 1247  ls
+ 1248  cd princess-leia.txt
+ 1249  ls
+ 1250  cd ..
+ 1251  cd galaxy-far-far-away
+ 1252  ls
+ 1253  mv death-star millenium-falcon/
+ 1254  ls
+ 1255  cd millenium-falcon
+ 1256  ls
+ 1257  cd ..
+ 1258  ls
+ 1259  cd tatooine
+ 1260  ls
+ 1261  cd ..
+ 1262  mv millenium-falcon/ ../death-star
+ 1263  ls
+ 1264  cd ..
+ 1265  ls
+ 1266  cd death-star
+ 1267  ls
+ 1268  mv princess-leia.txt millenium-falcon
+ 1269  ls
+ 1270  cd millenium-falcon
+ 1271  ls
+ 1272* cd
+ 1273* cd code
+ 1274* cd labs
+ 1275* ls
+ 1276* cd ga
+ 1277* cd labs
+ 1278* git clone https://github.com/aliaburashid/u1-intro-to-cli-lab.git
+ 1279* cd u1-intro-to-cli-lab
+ 1280* code .
