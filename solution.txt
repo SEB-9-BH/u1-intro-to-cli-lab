@@ -1,4 +1,4 @@
-mkdir star-wars
+ mkdir star-wars
    57  cd..
    58  cd ..
    59  clear
@@ -116,3 +116,63 @@ mkdir star-wars
   171  cd ..
   172   ls
   173  history
+  174  git add -A
+  175  ls
+  176  cd ..
+  177  mv galaxy-far-far-away/millenium-falcon death-star
+  178  ls
+  179  cd ..
+  180  cd star-wars/death-star/
+  181  ls
+  182  cd millenium-falcon/
+  183  ls
+  184  cd ..
+  185  cd ..
+  186  cd galaxy-far-far-away/
+  187  ls
+  188  cd tatooine/
+  189  ls
+  190  ls
+  191  cd ..
+  192  ls
+  193  cd ..
+  194   ;s
+  195  ls
+  196  cd death-star/
+  197  ls
+  198  cd millenium-falcon/
+  199  ls
+  200  cd ..
+  201  cd ..
+  202  ls
+  203  cd galaxy-far-far-away/tatooine/
+  204  ls
+  205  touch princess-leia.txt
+  206  mv princess-leia.txt ../
+  207  ls
+  208  cd ..
+  209  ls
+  210  mv tatooine/
+  211  mv princess-leia.txt tatooine/
+  212  cd tatooine/
+  213  mv princess-leia.txt
+  214  mv princess-leia.txt ../../death-star/
+  215  ls
+  216  cd ../../death-star/
+  217  ls
+  218  cd ..
+  219  mv galaxy-far-far-away/tatooine/
+  220  cd galaxy-far-far-away/
+  221  ls
+  222  cd tatooine/
+  223  ls
+  224  cd ../../../
+  225  cd star-wars/
+  226  cd death-star/
+  227  ls
+  228  cd millenium-falcon/
+  229  ls
+  230  mv ben-knobi.txt obi-wan.txt
+  231  ls
+  232  rm obi-wan.txt
+  233  history
