@@ -1,0 +1,169 @@
+   55  mkdir star-wars
+   56  ls
+   57  cd star-wars
+   58  mkdir death-star
+   59  ls
+   60  cd death-star
+   61  touch darth-vader.txt princess-leia.txt storm-trooper.txt
+   62  ls
+   63  cd ..
+   64  mkdir galaxy-far-far-away
+   65  cd galaxy-far-far-away
+   66  mkdir tatooine
+   67  cd tatooine
+   68  ls
+   69  touch luke.txt ben-kenobi.txt
+   70  ls
+   71  mkdir millenium-falcon
+   72  cd millenium-falcon
+   73  touch han-solo.txt chewbacca.txt
+   74  man cp
+   75  q
+   76  cd ..
+   77  cd ..
+   78  cd ..
+   79  cd death-star
+   80  cp storm-trooper.tx /tatooine
+   81  ls
+   82  cp storm-trooper.txt
+   83  cp --help
+   84  cp storm-trooper.txt /code/labs/star-wars/galaxy-far-far-away/tatooine
+   85  cp storm-trooper cd tatooine
+   86  cd ..
+   87  cd death-star
+   88  cp storm-trooper.tx /code/labs/star-wars/galaxy-far-far-away/tatooine
+   89  cp storm-trooper.txt /code/labs/star-wars/galaxy-far-far-away/tatooine
+   90  cp storm-trooper.txt cd /code/labs/star-wars/galaxy-far-far-away/tatooine
+   91  cp storm-trooper.txt cp /code/labs/star-wars/galaxy-far-far-away/tatooine
+   92  cp /code/labs/star-wars/death-star/storm-trooper.txt
+   93  cd
+   94  cp /code/labs/star-wars/death-star/storm-trooper.txt
+   95  cd death-star
+   96  cd /code/labs/star-wars/death-star
+   97  cd ./code/labs/star-wars/death-star
+   98  ls
+   99  cp storm-trooper.txt ../galaxy-far-far-away/tatooine/
+  100  cd ../galaxy-far-far-away/tatooine/
+  101  ls
+  102  mv luke.txt ben-kenobi.txt ../millenium-falcon
+  103  mv luke.txt ben-kenobi.txt ./millenium-falcon
+  104  cd millenium-falcon/
+  105  ls
+  106  cd ..
+  107  mv millenium-falcon ../code/labs/star-wars/death-star
+  108  $ mv millenium-falcon ./code/labs/star-wars/death-star
+  109  $ mv millenium-falcon ./death-star
+  110  $ ls
+  111  ls
+  112  mv ./millenium-falcon/ ../code/labs/star-wars/death-star
+  113  mv ./millenium-falcon/ ./code/labs/star-wars/death-star
+  114  mv millenium-falcon/ death-star/
+  115  ls
+  116  mv death-star/ millenium-falcon/
+  117  ls
+  118  mv millenium-falcon/ ..death-star/
+  119  ls
+  120  cd.. /death-star
+  121  cd..
+  122  cd ..
+  123  cd ..
+  124  ls
+  125  cd death-star
+  126  ls
+  127  cd ../..
+  128  ls
+  129  cd star-wars/
+  130  ls
+  131  cd death-star/
+  132  ls
+  133  cd ..
+  134  ls
+  135  cd death-star
+  136  ls
+  137  cd ..
+  138  cd galaxy-far-far-away/
+  139  ls
+  140  cd tatooine/
+  141  ls
+  142  mv millenium-falcon/ star-wars/death-star
+  143  mv star-wars/galaxy-far-far-away/tatooine/millenium-falcon /star-wars/death-star
+  144  cd..
+  145  cd ..
+  146  cd ..
+  147  mv millenium-falcon star-wars/death-star
+  148  ls
+  149  cd galaxy-far-far-away/tatooine/
+  150  ls
+  151  mv millenium-falcon/ star-wars/death-star
+  152  cd ..
+  153  cd ..
+  154  cd galaxy-far-far-away/tatooine/
+  155  ls
+  156  mv millenium-falcon/ ././death-star
+  157  ls
+  158  mv death-star/ ./millenium-falcon
+  159  ls
+  160  mv millenium-falcon ./galaxy-far-far-away
+  161  ls
+  162  mv galaxy-far-far-away millenium-falcon
+  163  ls
+  164  pwd
+  165  mv millenium-falcon/ /c/Users/Administrator/code/labs/star-wars/galaxy-far-far-away/
+  166  LS
+  167  cd ..
+  168  ls
+  169  cd tatooine/
+  170  ls
+  171  ls
+  172  cd ..
+  173  ls
+  174  mv millenium-falcon/ C:\Users\Administrator\code\labs\star-wars\death-star
+  175  ls
+  176  mv C:\Users\Administrator\code\labs\star-wars\death-star millenium-falcon
+  177  ls
+  178  mv millenium-falcon/ star-wars/
+  179  ls
+  180  mv star-wars/ millenium-falcon
+  181  ls
+  182  mv millenium-falcon/ /c/Users/Administrator/code/labs/star-wars/death-star
+  183  ls
+  184  mv princess-leia.txt millenium-falcon
+  185  mv princess-leia.txt /millenium-falcon
+  186  mv princess-leia.txt /c/Users/Administrator/code/labs/star-wars/death-star/millenium-falcon/
+  187  cd ..
+  188  cd death-star
+  189  ls
+  190  mv princess-leia.txt /millenium-falcon
+  191  ls
+  192  cd millenium-falcon/
+  193  ls
+  194  mv ben-kenobi.txt obi-wan.txt
+  195  ls
+  196  rm obi-wan.txt
+  197  ls
+  198  cd ..
+  199  cd ..
+  200  cd galaxy-far-far-away/
+  201  mkdir yavin-4
+  202  cd labs
+  203  cd ..
+  204  cd ..
+  205  git clone https://github.com/abcice/u1-intro-to-cli-lab.git
+  206  ls
+  207  cd star-wars/
+  208  cd death-star/
+  209  mv millenium-falcon/ /c/Users/Administrator/code/labs/star-wars/galaxy-far-far-away/yavin-4/
+  210  ls
+  211  cd ..
+  212  cd galaxy-far-far-away/
+  213  cd yavin-4/
+  214  mkdir x-wing
+  215  cd ..
+  216  cd ..
+  217  cd ..
+  218  cd u1-intro-to-cli-lab/
+  219  cd code
+  220  code
+  221  touch solution.txt
+  222  ls
+  223  history
