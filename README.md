@@ -11,5 +11,5 @@ Practice using this essential tool can significantly streamline your workflow, m
 
 ## Content
 
-- [Setup](../setup/README.md)
-- [Exercise](../exercise/README.md)
+- [Setup](./setup/README.md)
+- [Exercise](./exercise/README.md)
