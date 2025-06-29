@@ -1,0 +1,12 @@
+  1  pwd
+    2  cd code
+    3  ls
+    4  cd unit1/labs/
+    5  ls
+    6  cd u1-intro-to-cli-lab/
+    7  git add -A
+    8  git commit -m "slo txt"
+    9  git push origin main
+   10  code .
+   11  touch solution.txt
+   12  history
